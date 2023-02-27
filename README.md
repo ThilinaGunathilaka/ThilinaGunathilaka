@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThilinaGunathilaka
-- 👀 I’m interested in research new projects
+- 👀 I’m interested in AI and UX/UI design
 - 🌱 I’m currently learning Computer Sceince Degree
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me improve my skills
